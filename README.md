@@ -82,7 +82,9 @@ Body:<br>
 DELETE book:<br>
 DELETE http://localhost:3000/books/<book-id><br>
 
-### Author<br>
-[Disha](github.com/dish982)<br>
-📧 Feel free to connect.
-(This project is for learning and educational purposes only)
+### This project is for educational and portfolio purposes only.
+
+### Author
+Made with ❤️ by [Disha](github.com/dish982)<br>
+
+
